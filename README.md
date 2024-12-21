@@ -2,16 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and exploring new technologies.
 
-## 🚀 About Me
-
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [New Technologies or Skills]
-- 👯 I’m looking to collaborate on [Projects or Interests]
-- 🤔 I’m looking for help with [Areas where you need assistance]
-- 💬 Ask me about [Topics or Technologies you're proficient in]
-- 📫 How to reach me: [Your Email Address]
-- ⚡ Fun fact: [An interesting fact about you]
-
 ## 🛠️ Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
