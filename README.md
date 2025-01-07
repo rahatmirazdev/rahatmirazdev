@@ -1,19 +1,35 @@
-# Hi there, I'm Rahat Miraz 👋
+<div align="center">
+  <img height="150" src="https://github.com/rahatmirazdev/rahatmirazdev/blob/main/rahatbanner.png?raw=true"  />
+</div>
 
-Welcome to my GitHub profile! I'm a passionate web developer with a love for creating innovative websites and exploring new technologies.
+###
 
-## 🛠️ Technologies & Tools
+<h1 align="left">Hello there, I'm Rahat Ahmed Miraz</h1>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+###
 
-## 📫 Connect with Me
+<h3 align="left">👩‍💻  About Me</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahatahmedmiraz)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=about.me&logoColor=white)](https://rahatmiraz.netlify.app)
+###
 
-Thanks for visiting my profile. Let's connect and build something amazing together
+<p align="left">I'm a Frontend Developer from Bangladesh<br><br>- 📚 Basically I expert in React js <br>- ⚡ Always try to explore new technologies</p>
+
+###
+
+<h3 align="left">🛠 Language and tools:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+</div>
+
+###
