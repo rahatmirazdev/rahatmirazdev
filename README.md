@@ -39,3 +39,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rahatmirazdev&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahatmirazdev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+###
+
+<h3 align="left">You can connect with me on:</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/rahatahmedmiraz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
