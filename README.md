@@ -1,6 +1,6 @@
 # Hi there, I'm Rahat Miraz 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and exploring new technologies.
+Welcome to my GitHub profile! I'm a passionate web developer with a love for creating innovative websites and exploring new technologies.
 
 ## 🛠️ Technologies & Tools
 
@@ -18,8 +18,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=about.me&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahatahmedmiraz)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=about.me&logoColor=white)](https://rahatmiraz.netlify.app)
 
-Thanks for visiting my profile. Let's connect and build something amazing together!
+Thanks for visiting my profile. Let's connect and build something amazing together
