@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm a Frontend Developer from Bangladesh<br><br>- 📚 Basically I expert in React js <br>- ⚡ Always try to explore new technologies</p>
+<p align="left">I have a solid grasp of responsive design principles and leverage the latest frontend technologies to create seamless user experiences. Whether it's creating dynamic interfaces, implementing animations, or optimizing performance, I'm dedicated to crafting exceptional digital solutions.<br><br>- 📚 Basically I expert in React js <br>- ⚡ Always try to explore new technologies</p>
 
 ###
 
