@@ -20,10 +20,6 @@
 
 ###
 
-<h2 align="left">Profile Stats</h2>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -37,6 +33,8 @@
 </div>
 
 ###
+
+<h2 align="left">Profile Stats</h2>
 
 ###
 
