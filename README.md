@@ -34,14 +34,8 @@
 
 ###
 
-<h2 align="left">Profile Stats</h2>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rahatmirazdev&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rahatmirazdev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahatmirazdev&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahatmirazdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahatmirazdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=rahatmirazdev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
