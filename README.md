@@ -1,5 +1,5 @@
-<div>
-  <img height="150" src="https://github.com/rahatmirazdev/rahatmirazdev/blob/main/rahatbanner.png?raw=true" />
+<div align="center">
+  <img src="https://github.com/rahatmirazdev/rahatmirazdev/blob/main/rahatbanner.png?raw=true" />
 </div>
 
 # <div align="left">Hello there, I'm <span style="color:#ffcc00; font-weight:bold;">Rahat Ahmed Miraz</span> 👋</div>
