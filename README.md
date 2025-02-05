@@ -8,6 +8,10 @@
 
 ###
 
+<h2 align="left">Frontend Developer</h1>
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
