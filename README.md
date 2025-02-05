@@ -2,11 +2,11 @@
   <img height="150" src="https://github.com/rahatmirazdev/rahatmirazdev/blob/main/rahatbanner.png?raw=true"  />
 </div>
 
-###
-
 <h1 align="left">Hello there, I'm Rahat Ahmed Miraz</h1>
 
 <h2 align="left">Frontend Developer</h1>
+
+###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
