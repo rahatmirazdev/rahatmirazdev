@@ -7,7 +7,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
 <p align="left">
 ✨ I’m a **Frontend Developer** based in Sylhet with expertise in **React.js, Tailwind CSS, and JavaScript**. <br>
