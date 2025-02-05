@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 <p align="left">
-✨ I’m a **Frontend Developer** based in Sylhet with expertise in **React.js, Tailwind CSS, and JavaScript**. <br>
+✨ I’m a <span style="color:#ffcc00; font-weight:bold;">Frontend Developer</span> based in Sylhet with expertise in <span style="color:#ffcc00; font-weight:bold;">React.js, Tailwind CSS, and JavaScript</span>. <br>
 💡 My achievements include developing dynamic projects such as **Chill Gamer** and **Go Driver**. <br>
 🚀 I am expanding my skill set to backend technologies to become a **full-stack developer**.
 </p>
