@@ -11,38 +11,38 @@
 
 <p align="left">
 ✨ I’m a <span style="color:#ffcc00; font-weight:bold;">Frontend Developer</span> based in Sylhet with expertise in <span style="color:#ffcc00; font-weight:bold;">React.js, Tailwind CSS, and JavaScript</span>. <br>
-💡 My achievements include developing dynamic projects such as **Chill Gamer** and **Go Driver**. <br>
-🚀 I am expanding my skill set to backend technologies to become a **full-stack developer**.
+💡 My achievements include developing dynamic projects such as Chill Gamer and Go Driver. <br>
+🚀 I am expanding my skill set to backend technologies to become a full-stack developer.
 </p>
 
 ---
 
 ## 🔥 Current Activities
-- 🌱 I’m currently learning **Node.js, Express.js, and MongoDB** to become a full-stack developer.
-- 🚀 I’m working on a **Task Management Application** using **Next.js with Server Actions and MongoDB**.
-- 🏗️ I’m building a **Building Management System** with React and Tailwind CSS.
+- 🌱 I’m currently learning Node.js, Express.js, and MongoDB to become a full-stack developer.
+- 🚀 I’m working on a Task Management Application using Next.js with Server Actions and MongoDB.
+- 🏗️ I’m building a Building Management System with React and Tailwind CSS.
 
 ---
 
 ## 🛠 Skills & Technologies
 
-### **Frontend**
+### Frontend
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwind logo"  />
 </div>
 
-### **Backend (Learning)**
+### Backend (Learning)
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
-### **Tools & Technologies**
+### Tools & Technologies
 - Git, GitHub, npm, Yarn, Visual Studio Code
 
-### **Soft Skills**
+### Soft Skills
 - ⏳ Time Management | 🎯 Quick Learning
 
 ---
@@ -50,12 +50,12 @@
 ## 🚀 Featured Projects
 
 ### 🎮 [Chill Gamer - Game Review App](https://chill-gamerzz.web.app/) | [GitHub Repo](https://github.com/rahatmirazdev/Chill-Gamer)
-- ✅ Secure **user authentication** with email/password and Google Sign-In.
-- 📝 **Review management system** allows users to add game reviews.
+- ✅ Secure user authentication with email/password and Google Sign-In.
+- 📝 Review management system allows users to add game reviews.
 
 ### 🚗 [Go Driver - Car Rental System](https://godriveer.web.app/) | [GitHub Repo](https://github.com/rahatmirazdev/Go-Driver)
-- 🚘 **Car management system** to add, update, and delete cars with details.
-- 🔎 **Booking system** with real-time updates and advanced search features.
+- 🚘 Car management system to add, update, and delete cars with details.
+- 🔎 Booking system with real-time updates and advanced search features.
 
 ---
 
