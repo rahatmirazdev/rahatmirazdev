@@ -1,4 +1,4 @@
-<div align="left">
+<div>
   <img height="150" src="https://github.com/rahatmirazdev/rahatmirazdev/blob/main/rahatbanner.png?raw=true" />
 </div>
 
