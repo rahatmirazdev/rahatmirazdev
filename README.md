@@ -1,15 +1,15 @@
-<div align="center">
+<div align="left">
   <img height="150" src="https://github.com/rahatmirazdev/rahatmirazdev/blob/main/rahatbanner.png?raw=true" />
 </div>
 
-# <div align="center">Hello there, I'm <span style="color:#ffcc00; font-weight:bold;">Rahat Ahmed Miraz</span> 👋</div>
-### <div align="center">Web Developer | Frontend Enthusiast | Exploring Backend 🚀</div>
+# <div align="left">Hello there, I'm <span style="color:#ffcc00; font-weight:bold;">Rahat Ahmed Miraz</span> 👋</div>
+### <div align="left">Web Developer | Frontend Enthusiast | Exploring Backend 🚀</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-<p align="center">
+<p align="left">
 ✨ I’m a **Frontend Developer** based in Sylhet with expertise in **React.js, Tailwind CSS, and JavaScript**. <br>
 💡 My achievements include developing dynamic projects such as **Chill Gamer** and **Go Driver**. <br>
 🚀 I am expanding my skill set to backend technologies to become a **full-stack developer**.
@@ -27,14 +27,14 @@
 ## 🛠 Skills & Technologies
 
 ### **Frontend**
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwind logo"  />
 </div>
 
 ### **Backend (Learning)**
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
@@ -61,7 +61,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rahatmirazdev&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahatmirazdev&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahatmirazdev&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
@@ -70,7 +70,7 @@
 ---
 
 ## 🔗 Connect with Me
-<div align="center">
+<div align="left">
   <a href="mailto:rahatmiraz.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/rahatmirazdev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/rahatahmedmiraz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
