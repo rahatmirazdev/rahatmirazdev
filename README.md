@@ -13,15 +13,44 @@
   </a>
 </div>
 
-## 👨‍💻 About Me
+<!-- Professional Summary -->
+<h2 align="center">Professional Summary</h2>
 
+<div align="center">
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="350">
+</div>
+
+```javascript
+// Last updated: 2025-03-22 11:57:34
+const developerProfile = {
+  name: "Rahat Ahmed Miraz",
+  location: "Sylhet, Bangladesh",
+  contact: "+8801645022432",
+  email: "rahatmiraz.dev@gmail.com",
+  designation: "Full-Stack Developer in the Making",
+  primaryExpertise: "Web Development",
+  technicalFocus: [
+    "Frontend Development",
+    "UI/UX Implementation",
+    "Backend Integration",
+    "Responsive Web Solutions"
+  ],
+  achievements: "1000+ Hackos on HackerRank"
+};
+```
+
+<br>
 <p align="left">
-✨ I’m a <span style="color:#ffcc00; font-weight:bold;">Frontend Developer</span> based in Sylhet with expertise in <span style="color:#ffcc00; font-weight:bold;">React.js, Tailwind CSS, and JavaScript</span>. <br>
-💡 My achievements include developing dynamic projects such as Chill Gamer and Go Driver. <br>
-🚀 I am expanding my skill set to backend technologies to become a full-stack developer.
+  A web development expert with demonstrated proficiency in building responsive, user-centric web applications. Specialized in modern frontend technologies with growing backend capabilities. Strategic problem-solver focused on delivering clean, efficient code and exceptional user experiences.
+</p>
+<p align="left">
+  Actively developing full-stack expertise to provide comprehensive web solutions that address complex business requirements while maintaining high standards of performance and accessibility.
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
 
 ## 🔥 Current Activities
 - 🌱 I’m currently learning Node.js, Express.js, and MongoDB to become a full-stack developer.
