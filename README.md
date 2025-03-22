@@ -1,6 +1,21 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5468FF,100:0078D7&height=200&section=header&text=Rahat%20Ahmed%20Miraz&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20in%20the%20Making&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%"/>
 
+<div align="center">
+  <a href="mailto:rahatmiraz.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/rahatmiraz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://rahatmiraz.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
+  <a href="https://github.com/rahatmirazdev">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
 ## 👨‍💻 About Me
 
 <p align="left">
