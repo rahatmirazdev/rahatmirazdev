@@ -1,11 +1,8 @@
 <div align="center">
-  <img src="https://github.com/rahatmirazdev/rahatmirazdev/blob/main/rahatbanner.png?raw=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5468FF,100:0078D7&height=200&section=header&text=Rahat%20Ahmed%20Miraz&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20in%20the%20Making&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%"/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=0078D7&center=true&vCenter=true&random=false&width=600&height=70&lines=Web+Development+Expert;Frontend+%26+Backend+Technologies;React.js+%7C+Next.js+%7C+Node.js;JavaScript+Specialist;Crafting+Digital+Solutions" alt="Typing SVG" />
 </div>
-
-# <div align="left">Hello there, I'm <span style="color:#ffcc00; font-weight:bold;">Rahat Ahmed Miraz</span> 👋</div>
-### <div align="left">Web Developer | Frontend Enthusiast | Exploring Backend 🚀</div>
-
----
 
 ## 👨‍💻 About Me
 
