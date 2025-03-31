@@ -20,8 +20,9 @@
   <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="350">
 </div>
 
+<div align="left">
+  
 ```javascript
-// Last updated: 2025-03-22 11:57:34
 const developerProfile = {
   name: "Rahat Ahmed Miraz",
   location: "Sylhet, Bangladesh",
@@ -38,6 +39,7 @@ const developerProfile = {
   achievements: "1000+ Hackos on HackerRank"
 };
 ```
+</div>
 
 <br>
 <p align="left">
