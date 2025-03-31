@@ -54,12 +54,10 @@ const developerProfile = {
 </div>
 
 
-<div align="left">
 ## 🔥 Current Activities
 - 🌱 I’m currently learning Node.js, Express.js, and MongoDB to become a full-stack developer.
 - 🚀 I’m working on a Task Management Application using Next.js with Server Actions and MongoDB.
 - 🏗️ I’m building a Building Management System with React and Tailwind CSS.
-</div>
 
 ---
 
